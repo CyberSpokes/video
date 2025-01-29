@@ -1,0 +1,63 @@
+﻿General
+Complete name                            : vid01.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 7.05 MiB
+Duration                                 : 1 min 1 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 956 kb/s
+Frame rate                               : 14.968 FPS
+Writing application                      : Lavf58.76.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.1
+Format settings                          : CABAC / 1 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 1 frame
+Format settings, GOP                     : M=1, N=30
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1 min 1 s
+Bit rate                                 : 914 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 14.968 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.029
+Stream size                              : 6.75 MiB (96%)
+Color range                              : Full
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : 2 / 40 / mp4a-40-2
+Duration                                 : 1 min 0 s
+Source duration                          : 1 min 1 s
+Bit rate mode                            : Variable
+Bit rate                                 : 39.9 kb/s
+Maximum bit rate                         : 48.0 kb/s
+Channel(s)                               : 1 channel
+Channel layout                           : M
+Sampling rate                            : 8 000 Hz
+Frame rate                               : 7.812 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 296 KiB (4%)
+Source stream size                       : 297 KiB (4%)
+Default                                  : Yes
+Alternate group                          : 1
+mdhd_Duration                            : 60928
+
